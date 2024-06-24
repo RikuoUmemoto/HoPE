@@ -1,0 +1,25 @@
+body{
+    
+    background-image: url(../img/背景ループ.jpg);/*背景指定*/
+    background-size: cover;/*画像のサイズ指定*/
+}
+
+.a01 {
+    
+    color: rgb(23, 55, 160);
+    background-color: rgb(196, 196, 196);
+}
+
+.a02 {
+    color: rgb(148, 173, 255);
+}
+
+table{
+    background-image: url(../img/背景.png);/*背景指定*/
+    background-size: cover;/*画像のサイズ指定*/
+}
+
+.table,td,th{
+    border: 2px rgb(140, 0, 153) solid;/*線*/
+}
+
