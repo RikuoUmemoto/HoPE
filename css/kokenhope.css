@@ -16,10 +16,24 @@
 }
 
 .header{
-    
+    background-color: orange;
+    height: 30px;
 }
 
 
+.footer{
+    background-color: blue;
+    height: 30px;
+    color: white;
+}
+.footer-list{
+}
 .footer-listitem{
     list-style: none;
+    border-width: 5px;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
 }
