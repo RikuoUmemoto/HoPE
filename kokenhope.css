@@ -1,0 +1,39 @@
+.header-listitem{
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.header-list{
+    
+}
+
+
+.header-logo{
+    float: left;
+    font-size: 20px;
+}
+
+.header{
+    background-color: orange;
+    height: 30px;
+}
+
+
+.footer{
+    background-color: #4169e1;
+    height: 30px;
+    color: white;
+}
+.footer-list{
+}
+.footer-listitem{
+    list-style: none;
+    border-width: 5px;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+}
