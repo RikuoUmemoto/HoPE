@@ -52,7 +52,7 @@ ul{
   text-decoration: none;
 }
 
-/*
+
 /* 各 SNS ボタンのボックス */
 .sns-button li  {
   display: inline-block; 
@@ -64,7 +64,6 @@ ul{
   height: 70px;
   line-hight: 70px;
 }
-*/
 
 /* アイコン */
 .sns-button i {
