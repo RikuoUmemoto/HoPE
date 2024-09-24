@@ -38,3 +38,51 @@ ul{
     margin: 0px;
     padding: 0px;
 }
+
+/* SNSボタン系統 */
+.sns-button {
+  margin: 3px;
+  padding: 0px;
+  text-align: center;
+  list-style: none;
+  overflow: visible;
+  padding: 0;
+}
+.sns-button a {
+  text-decoration: none;
+}
+
+/*
+/* 各 SNS ボタンのボックス */
+.sns-button li  {
+  display: inline-block; 
+  margin: 7px;
+  padding: px 0px;
+  border-radius: 4px;
+  box-shadow:3.8px 3.8px #4c4550;
+  width: 70px;
+  height: 70px;
+  line-hight: 70px;
+}
+*/
+
+/* アイコン */
+.sns-button i {
+  text-align:center;
+  font-size: 35px;
+  margin: 0px;
+  padding: 17px 0px 0px 0px;
+  color: #fff;
+}
+
+/* アイコンホバー */
+.sns-button  li:hover { 
+ transform: scale(1.2);
+ box-shadow: 0px 0px #4c4550; 
+}
+
+
+/* ボタンの色 */
+.button_twitter   { background: #1da1f2; }
+.button_instagram { background: #CF2E92; }
+
