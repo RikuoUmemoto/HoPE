@@ -32,6 +32,10 @@
 .footer-listitem{
     list-style: none;
     border-width: 5px;
+    float: right;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 10px;
 }
 
 ul{
