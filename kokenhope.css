@@ -28,6 +28,8 @@
     color: white;
 }
 .footer-list{
+    margin-left: 10px;
+    padding: 3px;
 }
 .footer-listitem{
     list-style: none;
