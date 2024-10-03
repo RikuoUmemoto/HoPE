@@ -9,6 +9,11 @@
     
 }
 
+.header-image {
+  width: 100%;        /* 横幅を100%に */
+  height: auto;       /* 縦横比を維持 */
+  display: block;     /* 不要な隙間をなくすためにblock要素にする */
+}
 
 .header-logo{
     width: 60px;
@@ -18,7 +23,7 @@
 
 .header{
     background-color: orange;
-    height: 30px;
+    position: relative;   /* 他の要素と重ならないようにする */
 }
 
 
